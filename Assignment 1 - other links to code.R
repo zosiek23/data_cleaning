@@ -1,6 +1,7 @@
 ##https://github.com/andersonlunz/getting_cleaning_data_prj
-##
-
+## https://github.com/sragh/GCD/blob/master/Run_Analysis.R
+##https://github.com/amedabal/Getting-and-Cleaning-Data
+##https://github.com/jorgeborges/getdata-project
 library(base)
 library(utils)
 library(data.table)
